@@ -8,11 +8,12 @@ import './App.css';
 import "./styles/style.css"
 
 function App() {
+
   return (
     <div className="App">
       <Header />
-      <New_layout />
-      <Footer/>
+      <News />
+      <Footer />
     </div>
   );
 }
